@@ -3,7 +3,6 @@ import numpy as np
 import mediapipe as mp
 from tensorflow import keras
 from playsound import playsound
-import winsound
 
 mp_pose = mp.solutions.pose
 
